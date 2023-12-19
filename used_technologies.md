@@ -50,7 +50,7 @@ Helm templates (some files are marked as "mustache" due to similar syntax and te
 
 ## Databases
 - MySQL
-- Mongo
+- MongoDB
 
 ## Messages
 - RabbitMQ
