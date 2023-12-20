@@ -60,13 +60,12 @@ Helm templates (some files are marked as "mustache" due to similar syntax and te
 - Prometheus
 - Node exporter
 - Alert manager
-- Weave Scope
+- Weave Scope (or Cloud if not hosted locally)
 
 ## Uncategorized
 - REST API over HTTP
 - OpenAPI (Swagger 2.0) specification for API
 - Weave Net
-- ?Weave Cloud
 - ?Weaveworks
 - Vagrant
 - Nginx
